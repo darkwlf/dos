@@ -9,7 +9,7 @@ developer:dark wolf
 
 github:https://github.com/darkwlf
 
-developed after yesterday at tehran :/
+developed after tehran earthquake :/
 
 good luck!
 
